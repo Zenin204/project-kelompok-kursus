@@ -1,4 +1,8 @@
 # tugas_kelompok
+Kelompok:
+Dani Permana
+Nazzar Maulana
+Asty Maulida Hafsah
 
 A new Flutter project.
 
